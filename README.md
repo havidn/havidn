@@ -18,8 +18,6 @@ I'm a graduate of Quality Engineering from Altera Academy Bootcamp, I enjoy proc
 <code><img height="27" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.AUV12oZqb46PqdU7h0jzcwHaFj%26pid%3DApi&f=1&ipt=cfa3a3107aaba301d8e9b08fdfb5662081063da589d332a94cee2164fb397981&ipo=images" alt="serenity"></code>
 <code><img height="27" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.qmS-f8Pv72ZavjF22v-xiwAAAA%26pid%3DApi&f=1&ipt=e8fdc46f8b7cdb7681800dadd3c73ea59c2063b28ded690e81ded4312ad5ea1c&ipo=images" alt="serenity"></code>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=havidn&show_icons=true&locale=en&layout=compact" alt="Havid Nur" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=havidn&show_icons=true&locale=en" alt="Havid Nur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=havidn&" alt="Havid Nur" /></p>
