@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=havidn.havidn&style=flat-square&color=0088cc)
 
-I'm a graduate of Quality Engineering from Altera Academy Bootcamp, I enjoy processing data with experience in processing team data at my last job. I like to improve the performance of a system by enhancing the details on the system to make it even better, in this boot camp I learned a lot from projects to improve the performance of a system both from the backend and from the frontend by using several applications such as Postman, Intelej and selenium to perform automated testing, from that project I also learn about team management, collaboration, and problem-solving.
+Graduated from Gadjah Mada University, I enjoy processing data with experience in processing team data at my last job. Also experienced in preventive maintenance and electrical repairs. Currently, I graduated from the Quality Engineer Immersive program at Alterra Academy to improve my skills in processing data and improving software performance. I have high confidence in Manual Testing using Postman and cURL. Web Automated testing using Selenium and Cucumber. API Automated Testing using Rest Assured and Postman (Runner and Monitor). Mobile Apps Testing using Appium and Performance Testing using Jmeter. I can write BDD well.
 
 ### Languages and Tools:
 
