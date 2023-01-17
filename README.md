@@ -1,5 +1,6 @@
 ## Hey there 👋, I'm [Havid Nursahgandi!](https://github.com/havidn/)
 
+### 😉 Reach me 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/havid-nursahgandi)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/havid_nur/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Havid_nur)
@@ -18,6 +19,11 @@ Graduated from Gadjah Mada University, I enjoy processing data with experience i
 <code><img height="27" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.AUV12oZqb46PqdU7h0jzcwHaFj%26pid%3DApi&f=1&ipt=cfa3a3107aaba301d8e9b08fdfb5662081063da589d332a94cee2164fb397981&ipo=images" alt="serenity"></code>
 <code><img height="27" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.qmS-f8Pv72ZavjF22v-xiwAAAA%26pid%3DApi&f=1&ipt=e8fdc46f8b7cdb7681800dadd3c73ea59c2063b28ded690e81ded4312ad5ea1c&ipo=images" alt="serenity"></code>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=havidn&show_icons=true&locale=en" alt="Havid Nur" /></p>
+### Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=havidn&" alt="Havid Nur" /></p>
+<p>
+<a href="https://github.com/havidn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=havidn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=havidn&layout=compact&langs_count=8&theme=algolia"/><p>
+    </a>
+</p>
